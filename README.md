@@ -17,3 +17,9 @@
 
 - At least one branch for each team member
 - Each team member has at least four commits for the duration of the final segment (16 total commits per person)
+
+### Technologies to Use
+- Google Maps and places API
+- Machine Learning 
+- Pandas and Python for cleaning data 
+- Use of Jupyter Notebook (or Google Collab)
