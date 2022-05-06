@@ -13,7 +13,7 @@ The team members have drafted their project, including the following:
 ## Technologies to Use:
 
 - Google Maps and places API
-- Machine Learning
+- Machine Learning: scikit-learn
 - Pandas and Python for cleaning data
 - Use of Jupyter Notebook (or Google Collab)
 - Tableu for Dashboards
