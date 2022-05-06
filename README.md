@@ -10,5 +10,12 @@ The team members have drafted their project, including the following:
   - **What are the Most Safe and Least Safe Neighborhoods in Denver**
   - **
 
+## Technologies to Use:
+
+- Google Maps and places API
+- Machine Learning
+- Pandas and Python for cleaning data
+- Use of Jupyter Notebook (or Google Collab)
+- Tableu for Dashboards
 
 ### Description of the communication protocols?
