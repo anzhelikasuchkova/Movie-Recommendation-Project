@@ -10,7 +10,7 @@ The team members have drafted their project, including the following:
   - **What are the Most Safe and Least Safe Neighborhoods in Denver**
   - **
 
-## Technologies to Use:
+## Technologies & Software
 
 - Google Maps and places API
 - Machine Learning: scikit-learn
