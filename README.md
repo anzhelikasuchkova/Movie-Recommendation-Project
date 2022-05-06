@@ -11,3 +11,4 @@ The team members have drafted their project, including the following:
   - **
 
 
+### Description of the communication protocols?
