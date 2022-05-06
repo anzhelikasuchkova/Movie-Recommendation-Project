@@ -8,12 +8,14 @@ The team members have drafted their project, including the following:
 - Description of the source of data: **[Kaggle Data Crime Data from County of Denver](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime)**
 - Questions they hope to answer with the data:
   - **What are the Most Safe and Least Safe Neighborhoods in Denver**
-  - **
+  - **Predict time when areas are unsafe on our route and route around**
+  - **Predict public/more populas areas that could be "safe zones"**
+  - **Specify "Violent" Crimes only
 
-## Technologies & Software
+## Technologies to Use:
 
 - Google Maps and places API
-- Machine Learning: scikit-learn
+- Machine Learning
 - Pandas and Python for cleaning data
 - Use of Jupyter Notebook (or Google Collab)
 - Tableu for Dashboards
