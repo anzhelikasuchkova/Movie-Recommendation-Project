@@ -1,19 +1,21 @@
 # Final-Project
 
-### The main branch should include:
+## Content:
 
-- All code necessary to perform exploratory analysis
-- All code necessary to complete the machine learning portion of the project
-- Any images that have been created (at least three)
-- Requirements.txt file
+The team members have drafted their project, including the following:
+- Selected topic: **Movie Recommendation System**
+- Reason we selected the topic: **Sometimes it can be difficult to find a show or movie to watch that you will enjoy, this is look at the movies you have liked or watched and suggest movies that you may like based on your history**
+- Description of the source of data: **[Kaggle 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)**
+- Questions they hope to answer with the data:
+  - **Display suggestions based on the selected genre, actors and language**
+  - **Predict what movies the user will enjoy watching based on their already watched**
+  - **Use the keywords that the user has input to find related shows/movies**
+  - **Use the user's prefered genre to display recommendations**
 
-### README.md should include:
+## Technologies to Use:
 
-- Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
-- Link to dashboard (or link to video of dashboard demonstration)
-- Link to Google Slides presentation
-
-### Requirements for the individual branches follow:
-
-- At least one branch for each team member
-- Each team member has at least four commits for the duration of the final segment (16 total commits per person)
+- HTML/CSS
+- Machine Learning
+- Pandas and Python for cleaning data
+- Use of Jupyter Notebook (or Google Collab)
+- SQL
