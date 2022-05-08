@@ -6,7 +6,7 @@ The team members have drafted their project, including the following:
 - Selected topic: **Movie Recommendation System**
 - Reason we selected the topic: **Sometimes it can be time consuming to find a show or movie to watch that you will enjoy, this will look at the movies you have liked or watched and suggest movies that you may like based on your history or preferences**
 - Description of the source of data: **[Kaggle 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)**
-- Questions they hope to answer with the data:
+- Questions we hope to answer with the data:
   - **Display suggestions based on the selected genre, actors and language**
   - **Predict what movies the user will enjoy watching based on their already watched**
   - **Use the keywords that the user has input to find related shows/movies**
