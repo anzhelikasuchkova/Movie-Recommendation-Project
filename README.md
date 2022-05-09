@@ -8,8 +8,7 @@ The team members have drafted their project, including the following:
 - Description of the source of data: **[The TMDB API Source](https://www.themoviedb.org/)**
 
 - Questions we hope to answer with the data:
-  - **Display suggestions based on the selected genre, actors and language**
-  - **Predict what movies the user will enjoy watching based on their already watched**
+  - **Display suggestions based on the selected genre, cast, crew, overview, keywords**
   - **Use the keywords that the user has input to find related movies**
   - **Use the user's prefered genre to display recommendations**
 
