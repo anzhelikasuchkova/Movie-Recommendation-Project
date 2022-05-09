@@ -23,4 +23,5 @@
 - Machine Learning 
 - Pandas and Python for cleaning data 
 - Use of Jupyter Notebook (or Google Collab)
-- Tableu for Dashboards 
+- HTML/CSS
+
