@@ -15,7 +15,7 @@ The team members have drafted their project, including the following:
 ## Technologies to Use:
 
 - HTML/CSS
-- Machine Learning: sklearn
+- Supervised Machine Learning: sklearn
 - Pandas and Python for cleaning data
 - Jupyter Notebook 
 - SQL
