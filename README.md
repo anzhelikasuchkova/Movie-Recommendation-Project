@@ -17,6 +17,6 @@ The team members have drafted their project, including the following:
 - HTML/CSS
 - Machine Learning: sklearn
 - Pandas and Python for cleaning data
-- Use of Jupyter Notebook (or Google Collab)
+- Jupyter Notebook 
 - SQL
 - JSON
