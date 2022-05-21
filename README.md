@@ -1,5 +1,19 @@
 # Final-Project
 
+## Technologies Used:
+
+- Jupyter Notebook 
+- GoogleCollab
+- Pandas
+- Supervised Machine Learning: sklearn
+- PostgreSQL
+- Heroku
+- VScode
+- Python
+- HTML/CSS
+- JSON
+- Quickdatabasediagram.com
+
 ## Content:
 
 The team members have drafted their project, including the following:
@@ -19,20 +33,6 @@ The team members have drafted their project, including the following:
 ## Diagram of the Relational Data Model:
 
 <img width="612" alt="Screen Shot 2022-05-21 at 1 35 51 PM" src="https://user-images.githubusercontent.com/93845867/169668225-4fee8c86-3a1e-4a03-8d2a-7145c27508e4.png">
-
-## Technologies to Use:
-
-- Jupyter Notebook 
-- GoogleCollab
-- Pandas
-- Supervised Machine Learning: sklearn
-- PostgreSQL
-- Heroku
-- VScode
-- Python
-- HTML/CSS
-- JSON
-- Quickdatabasediagram.com
 
 ## Slideshow:
 
