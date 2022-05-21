@@ -16,7 +16,7 @@ This is a movie recommendation system that uses different machine learning and d
 
 
 
-- While the recommending system produces good results now, It's scope is limited. Since most non franchise movies may not match based on words used in overview. Like in our example above interstellar gave us mostly accurate recommendations but Stuart Little has no real association to interstellar. So we will also use the other metadata available to us like director, actors, genres along with the keywords from the plot description. These can be taken from our dataset and added to the dataframes using the folowing code.
+- While the recommending system produces good results now, It's scope is limited. Since most non franchise movies may not match based on words used in overview. Like in our example above interstellar gave us mostly accurate recommendations but Stuart Little has no real association to interstellar. So we will also use the other metadata available to us like director, actors, genres along with the keywords from the plot description. 
 
 
 ![Screen Shot 2022-05-20 at 7 57 56 PM](https://user-images.githubusercontent.com/95242493/169630097-271136de-7251-46b7-a940-9cef6ef66644.png)
