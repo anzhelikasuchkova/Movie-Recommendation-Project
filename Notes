@@ -7,3 +7,11 @@ Genres
 keywords
 Cast 
 Crew
+
+
+SQL Database
+
+The database was created on SQL using the imdb_5000_movies.csv and imdb_5000_credits.csv. The movies csv had to be cleaned on jupyter notebook due to an error in SQL (Wasn't accepting the file). 
+After clean the file could be submitted.
+
+The diagram was created using https://app.quickdatabasediagrams.com website, with a main table 'Movies' and three ohter tables, cast, crew and keywords.
