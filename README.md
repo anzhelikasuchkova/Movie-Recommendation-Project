@@ -20,3 +20,7 @@ The team members have drafted their project, including the following:
 - Jupyter Notebook 
 - SQL
 - JSON
+
+## Slides:
+
+https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHOROc/edit?usp=sharing
