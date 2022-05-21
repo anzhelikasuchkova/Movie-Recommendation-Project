@@ -25,10 +25,12 @@ The team members have drafted their project, including the following:
 
 <img width="1345" alt="Screen Shot 2022-05-19 at 11 46 36 PM" src="https://user-images.githubusercontent.com/93845867/169668204-9a8d84b8-77a3-414d-ae86-6bb128ec7bbe.png">
 
-- Questions we hope to answer with the data:
-  - **Display suggestions based on the selected genre, cast, crew, overview, keywords**
-  - **Use the keywords that the user has input to find related movies**
-  - **Use the user's prefered genre to display recommendations**
+
+## Questions we hope to answer with the data:
+  - **What data would work best for this analysis?**
+  - **What type of machine learning model would work best?**
+  - **Can we make predictions based on keywords?**
+  - **What kind of input do we need from the user?**
 
 ## Diagram of the Relational Data Model:
 
