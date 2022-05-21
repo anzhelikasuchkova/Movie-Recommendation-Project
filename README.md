@@ -23,7 +23,7 @@
 - Machine Learning 
 - Pandas and Python for cleaning data 
 - Use of Jupyter Notebook (or Google Collab)
-- HTML/CSS
+- Heroku
 
 
 
@@ -42,3 +42,7 @@ the project
 project
 Slides
 Presentations are drafted in Google Slides.
+
+
+Initial Google Slides have been created. 
+Working with tutor to build a web app using Heroku 
