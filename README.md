@@ -16,7 +16,7 @@ The team members have drafted their project, including the following:
   - **Use the keywords that the user has input to find related movies**
   - **Use the user's prefered genre to display recommendations**
 
-## Relational Diagram:
+## Relational Data Model:
 
 <img width="612" alt="Screen Shot 2022-05-21 at 1 35 51 PM" src="https://user-images.githubusercontent.com/93845867/169668225-4fee8c86-3a1e-4a03-8d2a-7145c27508e4.png">
 
