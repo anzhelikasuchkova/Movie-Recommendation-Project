@@ -3,7 +3,6 @@
 ## Technologies Used:
 
 - Jupyter Notebook 
-- GoogleCollab
 - Pandas
 - Supervised Machine Learning: sklearn
 - PostgreSQL
@@ -13,6 +12,7 @@
 - HTML/CSS
 - JSON
 - Quickdatabasediagram.com
+- Google Slides
 
 ## Content:
 
