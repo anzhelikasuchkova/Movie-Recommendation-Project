@@ -22,16 +22,16 @@ The team members have drafted their project, including the following:
 
 ## Technologies to Use:
 
-- HTML/CSS
-- Supervised Machine Learning: sklearn
-- Pandas
-- Python
 - Jupyter Notebook 
 - GoogleCollab
+- Pandas
+- Supervised Machine Learning: sklearn
 - PostgreSQL
-- JSON
 - Heroku
 - VScode
+- Python
+- HTML/CSS
+- JSON
 - Quickdatabasediagram.com
 
 ## Slideshow:
