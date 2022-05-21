@@ -21,6 +21,9 @@ The team members have drafted their project, including the following:
 - Jupyter Notebook 
 - SQL
 - JSON
+- Heroku
+- VScode
+- Quickdatabasediagram.com
 
 ## Slideshow:
 
