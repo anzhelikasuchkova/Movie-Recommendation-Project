@@ -21,6 +21,6 @@ The team members have drafted their project, including the following:
 - SQL
 - JSON
 
-## Slides:
+## Slideshow:
 
 https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHOROc/edit?usp=sharing
