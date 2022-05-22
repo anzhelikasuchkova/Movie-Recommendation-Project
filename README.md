@@ -15,11 +15,11 @@
 - Google Slides
 
 ## Content:
-
-The team members have drafted their project, including the following:
 - Selected topic: **Movie Recommendation System**
 - Reason we selected the topic: **Sometimes it can be time consuming to find a movie to watch that you will enjoy, this will look at a movie you have liked or watched and suggest movies that you may like based on your preferences**
-- Description of the source of data:
+
+
+## Description of the source of data:
 
 **[Source: TMDB](https://www.themoviedb.org/)**
 
