@@ -17,6 +17,6 @@ The team members have drafted their project, including the following:
 - HTML/CSS
 - Supervised Machine Learning: sklearn
 - Pandas and Python for cleaning data
-- Jupyter Notebook 
-- SQL
+- Jupyter Notebook, Google Collab 
+- PostgreSQL
 - JSON
