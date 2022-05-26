@@ -1,13 +1,11 @@
 body{
     
     background-color:#b92f2f;
-
-.jumbotron {
-    background-image: url("../Images/Movies.jpg");
+    background-image: url("/static/Movie.jpg");
     background-size: 100% 100%;
     text-align: center;
-  }
+  
     
-    ;
+    
 
 }

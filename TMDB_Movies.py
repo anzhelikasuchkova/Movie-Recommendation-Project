@@ -98,7 +98,7 @@ def recommend(movie):
 if __name__ == "__main__":
     
     # lets see the recommendation
-    movie = "Home Alone"
+    movie = "Fight Club"
     recommendations = recommend(movie)
     for recommendation in recommendations:
         print(recommendation)
