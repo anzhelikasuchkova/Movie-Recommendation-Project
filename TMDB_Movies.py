@@ -86,13 +86,17 @@ def recommend(movie):
     #calculate the cosine similarity one movie to another movie
     similarity=cosine_similarity(vector_tag)
 
-    movie_index= new_df[new_df['title']==movie].index[0]
-    distance=similarity[movie_index]
-    movie_list=sorted(list(enumerate(distance)),reverse=True,key=lambda x:x[1])[1:6]
-    result = []
-    for i in movie_list:
-        result.append(new_df.iloc[i[0]].title)
-    return result
+    try: 
+        movie_index= new_df[new_df['title']==movie].index[0]
+        distance=similarity[movie_index]
+        movie_list=sorted(list(enumerate(distance)),reverse=True,key=lambda x:x[1])[1:6]
+        result = []
+        for i in movie_list:
+            result.append(new_df.iloc[i[0]].title)
+        return result
+    except:
+        return []
+        
 
 
 if __name__ == "__main__":

@@ -19,9 +19,12 @@ def hello_results():
     data = {'message': request.form.get('name')}
     return render_template('hello_results.html', data=data)
 
+
+
 @app.route("/test")
 def test(): 
     movies = TMDB_Movies.recommend("Home Alone")
+   
     data = {'movies': movies}
     return render_template('test_results.html', data = data)
 
@@ -31,15 +34,11 @@ if __name__=='__main__':
 @app.route("/test_results", methods=["POST"])
 def test_results(): 
     movies = TMDB_Movies.recommend(request.form.get('movie'))
+    print("+++++++++")
+    print(movies)
     data = {'movies': movies}
     return render_template('test_results.html', data = data)
 
 @app.route("/test_form")
 def test_form(): 
     return render_template('test_form.html')
-
-
-@app.route("/static/Movie.jpg")
-def test_movie(): 
-    content = get_file('static/Movie.jpg')
-    return Response(content, mimetype="image/jpg")
