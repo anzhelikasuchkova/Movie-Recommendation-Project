@@ -1,12 +1,13 @@
-## TMDB_5000_Movies_Recommendation_System
+# TMDB 5000 Movies Recommendation System
 
-## Slideshow:
+## Overview:
+
+This is a movie recommendation system that uses different machine learning and data science methods like tf-idf and cosine similarity to recommend movies based on a movie entered. 
+
+### Slideshow:
 
 https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHOROc/edit?usp=sharing
 
-### Overview:
-
-This is a movie recommendation system that uses different machine learning and data science methods like tf-idf and cosine similarity to recommend movies based on a movie entered. 
 
 ## Technologies Used:
 
