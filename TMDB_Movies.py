@@ -3,6 +3,8 @@ import numpy as np
 import ast
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from nltk import *
+
 
 def recommend(movie):
 
