@@ -10,7 +10,6 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 
 ## Technologies Used:
-
 - Jupyter Notebook 
 - Pandas
 - Numpy
