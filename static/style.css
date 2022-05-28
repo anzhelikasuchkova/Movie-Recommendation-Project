@@ -1,4 +1,13 @@
-body{
-    margin:3px 3px;
-    color:"red";
+body {
+background-color: black; 
+color: whitesmoke;
+background-image: url("Movie.jpg");
+background-repeat: no-repeat;
+background-size: cover;   
 }
+
+a:hover{color:grey;}
+a:visited{color:grey;}
+a:active{color:grey;}
+a:link{color:grey;}
+a{color:grey;}
