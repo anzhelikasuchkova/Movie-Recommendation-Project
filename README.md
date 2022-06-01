@@ -47,6 +47,23 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 <img width="612" alt="Screen Shot 2022-05-21 at 1 35 51 PM" src="https://user-images.githubusercontent.com/93845867/169668225-4fee8c86-3a1e-4a03-8d2a-7145c27508e4.png">
 
+## Data Processing Steps
+
+- The CSV was imported into a pandas dataframe using Jupyter Notebook
+- Merged 2 datasets into 1 based on 'title' or 'id'(Lily)
+- Removed unnecessary data 
+- Kept: 'movie_id','title','overview','genres','keywords','cast','crew'
+- Dropped null rows from dataframe
+- Converted columns to a string of values
+- Added the string of values to the column named 'tags' 
+- Created a new dataframe:'movie_id','title', 'tags'
+- Using WordNetLemmatizer changes to the words to its root form, applied to our tags column
+- Using CountVectorizer, omitted stop words 
+- Create a vector tag which transforms to an array 
+- Calculating cosine similarity to compare movies results to one another
+- Using TF-IDF vs. CountVectorizer to find different types of movie recommendations
+- Display the recommendations
+
 ## Machine Learning:
 
 ### Results
