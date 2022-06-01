@@ -26,7 +26,7 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 ## Content:
 - Selected topic: **Movie Recommendation System**
-- What does the model do? **Recommends similar movies based on the input.**
+- What does the model do? **Recommends similar movies based on the user's input.**
 - Reason we selected the topic: **Sometimes it can be time consuming to find a movie to watch that you will enjoy, this will look at a movie you have liked or watched and suggest movies that you may like based on your preferences**
 
 
