@@ -27,7 +27,7 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 ## Content:
 - Selected topic: **Movie Recommendation System**
 - What does the model do? **Recommends similar movies based on the user's input.**
-- Reason we selected the topic: **Sometimes it can be time consuming to find a movie to watch that you will enjoy, this will look at a movie you have liked or watched and suggest movies that you may like based on your preferences**
+- Reason we selected the topic: **Everyone loves movies. We all in a way are connected to each other via this amazing medium. Yet what most interesting is the fact that how unique our choices and combinations are in terms of movie preferences. Sometimes it can be time consuming to find a movie to watch that you will enjoy, this will look at a movie you have liked or watched and suggest movies that you may like based on your preferences**
 
 
 ## Description of the source of data:
@@ -61,7 +61,7 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 - Using CountVectorizer, omitted stop words 
 - Create a vector tag which transforms to an array 
 - Calculating cosine similarity to compare movies results to one another
-- Using TF-IDF vs. CountVectorizer to find different types of movie recommendations
+- Building the movie recommendation function 
 - Display the recommendations
 
 ## Machine Learning:
