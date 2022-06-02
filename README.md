@@ -26,7 +26,7 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 ## Content:
 - Selected topic: **Movie Recommendation System**
-- Reason we selected the topic: **Everyone loves movies. We all in a way are connected to each other via this amazing medium. Sometimes it can be time consuming to find a movie to watch that you will enjoy. How often do you find yourself scrolling through multiple apps looking for something that will scratch that itch but also isn't something you've already watched a million times.**
+- Reason we selected the topic: **Everyone loves movies. We all are in a way connected to each other via this amazing medium. Sometimes it can be time consuming to find a movie to watch that you will enjoy. How often do you find yourself scrolling through multiple apps looking for something that will scratch that itch but also isn't something you've already watched a million times.**
 - What does the model do? **Our model looks at a movie you already like and suggests movies that you may like based on your preferences. The working principle is very simple. We first check if the movie name input is in the database and if it is we use our recommendation system to find similar movies and sort them based on their similarity distance and output only the top 5 movies.**
 
 ## Description of the source of data:
