@@ -67,12 +67,10 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 We created a user friendly Web App where one could simply input the movie title and receive 5 different movie title suggestions to choose from.  We used flask app as the local host and then connected to Heroku to hold our webapp on an interface. When you insert the title the machine is training the model and therefore takes a few seconds to produce results.  In the future we would mitigate this process.   
 
-We are using the CSV files, so not all movies are available.  The user will recieve an error message if their movie is not in our database.  In the future, we would like to develop our app more to connect to the API file as well as the movie titles would be clickable with descriptions and movie trailers.
-
 
 ## Recommendation for future analysis:
 
-- **[TMDB Website](https://www.themoviedb.org/)** provides us with an API that can be used to source more recent movies. In the future we hope to implement the API instead of the current CSV file that the recommendation system is always up to date. 
+- **[TMDB Website](https://www.themoviedb.org/)** provides us with an API that can be used to source more recent movies. In the future we hope to implement the API instead of the current CSV file that the recommendation system is always up to date. Additionally, we would like to make the movie titles clickable with descriptions and movie trailers.
 
 ## Conclusions
 The Wep App is utilizing our first machine learning model.  As we were working on the web app were were continually working on additional machine learning models to come up with a more precise user experience.  
