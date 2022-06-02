@@ -26,7 +26,7 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 ## Content:
 - Selected topic: **Movie Recommendation System**
-- What does the model do? **Recommends similar movies based on the user's input.**
+- What does the model do? **The working principle is very simple. We first check if the movie name input is in the database and if it is we use our recommendation system to find similar movies and sort them based on their similarity distance and output only the top 5 movies.**
 - Reason we selected the topic: **Everyone loves movies. We all in a way are connected to each other via this amazing medium. Yet what most interesting is the fact that how unique our choices and combinations are in terms of movie preferences. Sometimes it can be time consuming to find a movie to watch that you will enjoy, this will look at a movie you have liked or watched and suggest movies that you may like based on your preferences**
 
 
