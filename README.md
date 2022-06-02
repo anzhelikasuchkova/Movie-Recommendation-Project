@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This is a movie recommendation system that uses different machine learning and data science methods like tf-idf and cosine similarity to recommend movies based on a movie entered. 
+This is a movie recommendation system that uses different machine learning and data science methods like CountVectorizer and cosine similarity to recommend movies based on a movie entered. 
 
 ### Slideshow:
 
