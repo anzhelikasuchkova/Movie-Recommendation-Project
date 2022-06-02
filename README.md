@@ -42,10 +42,6 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
   - **Can we make predictions based on keywords?**
   - **What kind of input do we need from the user?**
 
-## Diagram of the Relational Data Model:
-
-<img width="612" alt="Screen Shot 2022-05-21 at 1 35 51 PM" src="https://user-images.githubusercontent.com/93845867/169668225-4fee8c86-3a1e-4a03-8d2a-7145c27508e4.png">
-
 ## Data Processing Steps
 
 - The CSV was imported into a pandas dataframe using Jupyter Notebook
@@ -62,6 +58,10 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 - Calculating cosine similarity to compare movies results to one another
 - Building the movie recommendation function 
 - Display the recommendations
+
+## Diagram of the Relational Data Model:
+
+<img width="612" alt="Screen Shot 2022-05-21 at 1 35 51 PM" src="https://user-images.githubusercontent.com/93845867/169668225-4fee8c86-3a1e-4a03-8d2a-7145c27508e4.png">
 
 ## Machine Learning:
 
