@@ -63,6 +63,14 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 <img width="612" alt="Screen Shot 2022-05-21 at 1 35 51 PM" src="https://user-images.githubusercontent.com/93845867/169668225-4fee8c86-3a1e-4a03-8d2a-7145c27508e4.png">
 
+
+# Recommendation for future analysis:
+
+- TMDB Website prevides us with an amazing API system that can be used to source more resent movies. In the future we hope to implement the API instead of the current CSV file that we use to always stay up to date. 
+
+
+# Anything the team would have done differently:
+
 ## Machine Learning:
 
 ### Results
@@ -76,4 +84,4 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 
 ![Screen Shot 2022-05-20 at 7 57 56 PM](https://user-images.githubusercontent.com/95242493/169630097-271136de-7251-46b7-a940-9cef6ef66644.png)
-=======
+
