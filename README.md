@@ -63,10 +63,19 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 
 <img width="612" alt="Screen Shot 2022-05-21 at 1 35 51 PM" src="https://user-images.githubusercontent.com/93845867/169668225-4fee8c86-3a1e-4a03-8d2a-7145c27508e4.png">
 
+## WebApp
+
+We created a user friendly Web App where one could simply input the movie title and receive 5 different movie title suggestions to choose from.  We used flask app as the local host and then connected to Heroku to hold our webapp on an interface. When you insert the title the machine is training the model and therefore takes a few seconds to produce results.  In the future we would mitigate this process.   
+
+We are using the CSV files, so not all movies are available.  The user will recieve an error message if their movie is not in our database.  In the future, we would like to develop our app more to connect to the API file as well as the movie titles would be clickable with descriptions and movie trailers.
+
 
 # Recommendation for future analysis:
 
 - **[TMDB Website](https://www.themoviedb.org/)** provides us with an API that can be used to source more recent movies. In the future we hope to implement the API instead of the current CSV file that the recommendation system is always up to date. 
+
+## Conclusions
+The Wep App is utilizing our first machine learning model.  As we were working on the web app were were continually working on additional machine learning models to come up with a more precise user experience.  
 
 
 # Anything the team would have done differently:
