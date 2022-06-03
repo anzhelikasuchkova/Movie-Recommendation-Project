@@ -39,7 +39,7 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 ## Questions we hope to answer with the data:
   - **What data would work best for this analysis?**
   - **What type of machine learning model would work best?**
-  - **Can we make predictions based on keywords?**
+  - **How can we make the predictions more accurate?**
   - **What kind of input do we need from the user?**
 
 ## Data Processing Steps
