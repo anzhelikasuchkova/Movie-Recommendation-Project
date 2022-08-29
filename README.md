@@ -45,7 +45,7 @@ https://docs.google.com/presentation/d/1HeAANIuZ8QjEb9GCQByyh6V3iVE2rak_viHoUIHO
 ## Data Processing Steps
 
 - The CSV was imported into a pandas dataframe using Jupyter Notebook
-- Merged 2 datasets into 1 based on 'title' or 'id'(Lily)
+- Merged 2 datasets into 1 based on 'title' or 'id' 
 - Removed unnecessary data 
 - Kept: 'movie_id','title','overview','genres','keywords','cast','crew'
 - Dropped null rows from dataframe
